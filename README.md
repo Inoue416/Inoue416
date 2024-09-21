@@ -4,13 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Inoue416&show_icons=true&theme=transparent" alt="Top Languages" height="150px"/>
 </div>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inoue416&layout=compact) -->
-
-<!-- [![Inoue416's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inoue416&show_icons=true&theme=transparent)](https://github.com/Inoue416/github-readme-stats) -->
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inoue416&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inoue416&theme=default)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inoue416&theme=default" alt="GitHub Stats" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inoue416&theme=default" alt="Top Languages" height="150px"/>
+</div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Inoue416)](https://github.com/ryo-ma/github-profile-trophy)
