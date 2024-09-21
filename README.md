@@ -4,8 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Inoue416&show_icons=true&theme=transparent" alt="top-languages" height="150px" />
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 10px; margin-bottom:10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inoue416&theme=default" alt="top-repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inoue416&theme=default" alt="top-commit" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Inoue416&theme=default" alt="top-repo" height="150px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Inoue416&theme=default" alt="top-commit" height="150px" />
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Inoue416" alt="trophy"/>
