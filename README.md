@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inoue416&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Inoue416's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inoue416&show_icon=true)](https://github.com/Inoue416/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Inoue416)](https://github.com/ryo-ma/github-profile-trophy)
