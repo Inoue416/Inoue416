@@ -1,4 +1,6 @@
 ## のんびりとやっていきたい☕️
+<a href="https://homepage-7xc.pages.dev/">HomePage</a>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inoue416&layout=compact&theme=solarized-light" alt="github-stats" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Inoue416&show_icons=true&theme=solarized-light" alt="top-languages" height="150px" />
